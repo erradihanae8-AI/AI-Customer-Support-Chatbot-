@@ -16,7 +16,7 @@ Le chatbot utilise l’**API GPT d’OpenAI**, ce qui lui permet de comprendre l
 - **FastAPI** (ou Flask) pour le backend  
 - **Gradio** pour l’interface interactive  
 - **OpenAI GPT API** pour le NLP et la génération de réponses  
-- **Jupyter / VS Code** pour le développement et tests  
+- **VS Code** pour le développement et tests  
 
 ---
 
