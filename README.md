@@ -1,28 +1,28 @@
-# 🤖 AI Customer Support Chatbot
+ # 🤖 AI Customer Support Chatbot
+ ## 💡 General Idea
 
----
+The project involves developing an intelligent chatbot for customer support, capable of automatically answering users’ frequently asked questions (FAQs) on a website or for a company.
 
-## 💡 Idée générale
+The chatbot uses the OpenAI GPT API, allowing it to understand users’ natural language and generate relevant and contextual responses, even with a limited dataset.
 
-Le projet consiste à développer un **chatbot intelligent pour le support client**, capable de répondre automatiquement aux **questions fréquentes (FAQs)** des utilisateurs sur un site web ou pour une entreprise.  
+ ## 🛠️ Technologies Used
 
-Le chatbot utilise l’**API GPT d’OpenAI**, ce qui lui permet de comprendre le langage naturel des utilisateurs et de générer des réponses **pertinentes et contextuelles**, même avec un jeu de données limité.
+Python
 
----
+FastAPI (or Flask) for the backend
 
-## 🛠️ Technologies utilisées
+Gradio for the interactive interface
 
-- **Python**  
-- **FastAPI** (ou Flask) pour le backend  
-- **Gradio** pour l’interface interactive  
-- **OpenAI GPT API** pour le NLP et la génération de réponses  
-- **VS Code** pour le développement et tests  
+OpenAI GPT API for NLP and response generation
 
----
 
-## 🚀 Fonctionnalités
+VS Code for development and testing
+## 🚀 Features
 
-- Répondre automatiquement aux questions des utilisateurs en langage naturel  
-- Interface web interactive pour poser des questions en temps réel  
-- Suivi des conversations pour améliorer la qualité des réponses  
-- Possibilité d’étendre le chatbot avec de nouvelles fonctionnalités et intégrations  
+Automatically respond to users’ questions in natural language
+
+Interactive web interface for asking questions in real time
+
+Conversation tracking to improve response quality
+
+Ability to extend the chatbot with new features and integrations
