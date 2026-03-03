@@ -9,7 +9,7 @@ The chatbot uses the OpenAI GPT API, allowing it to understand users’ natural 
 
 Python
 
-FastAPI (or Flask) for the backend
+FastAPI for the backend
 
 Gradio for the interactive interface
 
